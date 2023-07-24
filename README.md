@@ -25,5 +25,11 @@ This gives the top N bigrams
 ## get_top_trigrams
 This gives the top N trigrams
 
+## Tweet Count Months
+This plots the tweets per month
+
+## Tweet Count Day
+This plots the tweets per day for a month
+
 ## major_authors
 This gives the top N authors
