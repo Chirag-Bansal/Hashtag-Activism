@@ -16,3 +16,5 @@ for i in range(len(df)):
 N = int(input("Enter Number of Hashtags Needed: "))
 res = dict(sorted(hashtags.items(), key = itemgetter(1), reverse = True)[:N])
 
+for key in res:
+  print([key, res[key]])
